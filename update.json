@@ -1,0 +1,11 @@
+{
+  "version": "0.9.4b12",
+  "forceUpdate": false,
+
+  "pcUrl": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/latest/download/EB_PC.zip",
+  "androidUrl": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/latest/download/EB.apk",
+
+  "changelog": [
+    "Oyun içi güncelleme sistemi eklendi"
+  ]
+}
