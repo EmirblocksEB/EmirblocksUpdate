@@ -1,11 +1,8 @@
 {
-  "version": "0.9.4b12",
-  "forceUpdate": false,
-
-  "pcUrl": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/latest/download/EB_PC.zip",
-  "androidUrl": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/latest/download/EB.apk",
-
-  "changelog": [
-    "Oyun içi güncelleme sistemi eklendi"
-  ]
+  "version": "0.9.8b55",
+  "notes": "- İlk sürüm\n- Ana menü eklendi\n- Ses ayarları",
+  "downloads": {
+    "windows": "https://github.com/KULLANICI_ADIN/REPO_ADIN/releases/download/v0.9.4b12/GameWindows.zip",
+    "android": "https://github.com/KULLANICI_ADIN/REPO_ADIN/releases/download/v0.9.4b12/GameAndroid.apk",
+  }
 }
