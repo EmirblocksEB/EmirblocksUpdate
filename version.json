@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8b14",
-  "notes": "- unlit desteği\n- otomatik güncelleme sistemi\n- grafik güncellemeleri",
+  "version": "0.9.9b14",
+  "notes": "deneme123  DSKGĞG",
   "downloads": {
-    "windows": "https://github.com/KULLANICI_ADIN/REPO_ADIN/releases/download/v0.9.4b12/GameWindows.zip",
-    "android": "https://github.com/KULLANICI_ADIN/REPO_ADIN/releases/download/v0.9.4b12/GameAndroid.apk"
+    "windows": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/download/0.9.9b6_UpdateTest/EB.0.9.9b6.zip",
+    "android": "https://github.com/EmirblocksEB/EmirblocksUpdate/releases/download/0.9.9b6_UpdateTest/0.9.9b6.apk"
   }
 }
